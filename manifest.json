@@ -4,12 +4,12 @@
   "description": "ABS App.",
   "icons": [
     {
-      "src": "/QRCodeReaderDemo/APP/icon-default.ee534d85.png",
+      "src": "/APP/icon-default.ee534d85.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/QRCodeReaderDemo/APP/icon-default-large.8e027b65.png",
+      "src": "/APP/icon-default-large.8e027b65.png",
       "sizes": "512x512",
       "type": "image/png"
     }
